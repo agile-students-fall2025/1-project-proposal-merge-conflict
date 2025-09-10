@@ -23,10 +23,9 @@ These are users that have busy schedules. Thus, speeding up the production workf
 From an end-user perspective, SuperMix will:  
 1. **Upload Audio Files** – Users can upload MP3, WAV, or other audio formats.  
 2. **Edit and Process Audio** – Users can trim sections, normalize volume, remove silence, and apply simple effects (speed/pitch changes, filters).  
-3. **Visual Feedback** – Users see an interactive waveform of their audio to make precise edits.  
+3. **Visual Feedback** – Users see an interactive waveform of their uploaded file to make precise edits. 
 4. **Batch Processing** – Multiple audio files can be processed at once, e.g., normalizing all podcast episodes in a series.  
-5. **Export** – Users can export in MP3 or WAV format with a single click, ready to publish.  
-6. **Optional Enhancements** – Future iterations could include adding intro/outro clips, generating audiograms (waveform videos), or collaborative track mixing.
+5. **Export** – Users can export in MP3 or WAV.
 
 ---
 
